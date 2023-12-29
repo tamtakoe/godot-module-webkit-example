@@ -1,4 +1,4 @@
-# Godot Extention example
+# Godot module with WebKit example
 
 Demo of integration WebKit into Godot Native module
 
